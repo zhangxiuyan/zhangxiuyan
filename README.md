@@ -1,5 +1,13 @@
 ### Hi there 👋
+================================================================================
+       .__                                .__
+_______|  |__ _____    ____    _______  __|__|__ __ ___.__._____    ____
+\___   /  |  \\__  \  /    \  / ___\  \/  /  |  |  <   |  |\__  \  /    \
+ /    /|   Y  \/ __ \|   |  \/ /_/  >    <|  |  |  /\___  | / __ \|   |  \
+/_____ \___|  (____  /___|  /\___  /__/\_ \__|____/ / ____|(____  /___|  /
+      \/    \/     \/     \//_____/      \/         \/          \/     \/
 
+================================================================================
 <!--
 **zhangxiuyan/zhangxiuyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![zhangxiuyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangxiuyan&show_icons=true&theme=tokyonight)
+![Visitor Count](https://profile-counter.glitch.me/zhangxiuyan/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangxiuyan&layout=compact&theme=tokyonight)
